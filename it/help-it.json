@@ -46,7 +46,7 @@
         "labeledTranslation_publish-pheno-1": "Apri la __(pheno_list::link::ui)__",
         "labeledTranslation_publish-pheno-2": "Trova il fenomeno che hai trovato nel gioco",
         "labeledTranslation_publish-pheno-3": "Sfoglia le mappe se sono disponibili più opzioni",
-        "labeledTranslation_publish-pheno-4": "Clicca su Copia con la mappa corrente e pubblica dove preferisci.",
+        "labeledTranslation_publish-pheno-4": "Click Publish, check the details and confirm. You can change the username attached to the post in the __(profile_preferences::link::ui)__ page. If you get the \"__(not_logged::text::ui)__\" error, log in with Discord from the navigation menu before publishing.",
         "labeledTranslation_publish-swarm-1": "Apri la __(swarm_list::link::ui)__",
         "labeledTranslation_publish-swarm-6": "Trova lo Sciame che vuoi chiamare.",
         "labeledTranslation_publish-swarm-7": "Clicca Pubblica, controlla i dettagli e conferma. Puoi cambiare il nome utente associato al post nella pagina __(profile_preferences::link::ui)__. Se ottieni l'errore \"__(not_logged::text::ui)__\", accedi con Discord dal menu di navigazione prima di pubblicare.",

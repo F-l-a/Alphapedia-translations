@@ -46,7 +46,7 @@
         "labeledTranslation_publish-pheno-1": "Ouvrir la __(pheno_list::link::ui)__",
         "labeledTranslation_publish-pheno-2": "Rechercher la bonne « Localisation » et le bon « Type de Phéno ».",
         "labeledTranslation_publish-pheno-3": "Défiler les images jusqu'au « Spawn Exact » s'il y en a plusieurs disponibles.",
-        "labeledTranslation_publish-pheno-4": "Cliquez sur « Copier avec l'image actuelle » et coller le message où vous le souhaitez.",
+        "labeledTranslation_publish-pheno-4": "Click Publish, check the details and confirm. You can change the username attached to the post in the __(profile_preferences::link::ui)__ page. If you get the \"__(not_logged::text::ui)__\" error, log in with Discord from the navigation menu before publishing.",
         "labeledTranslation_publish-swarm-1": "Ouvrir la __(swarm_list::link::ui)__",
         "labeledTranslation_publish-swarm-6": "Rechercher le bon « Essaim », à la bonne « Localisation » pour Publier une Alerte.",
         "labeledTranslation_publish-swarm-7": "Cliquez sur « Publier », vérifiez les détails et confirmez. Vous pouvez modifier le nom d'utilisateur associé à la publication sur la page __(profile_preferences::link::ui)__ . Si vous rencontrez l'erreur \"__(not_logged::text::ui)__\" , connectez-vous via Discord depuis le menu de navigation avant de publier.",

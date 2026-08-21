@@ -46,7 +46,7 @@
         "labeledTranslation_publish-pheno-1": "Open the __(pheno_list::link::ui)__",
         "labeledTranslation_publish-pheno-2": "Search the pheno you found in game",
         "labeledTranslation_publish-pheno-3": "Browse the maps if there are multiple available",
-        "labeledTranslation_publish-pheno-4": "Click copy with current map and post where ever you want to post it.",
+        "labeledTranslation_publish-pheno-4": "Click Publish, check the details and confirm. You can change the username attached to the post in the __(profile_preferences::link::ui)__ page. If you get the \"__(not_logged::text::ui)__\" error, log in with Discord from the navigation menu before publishing.",
         "labeledTranslation_publish-swarm-1": "Open the __(swarm_list::link::ui)__",
         "labeledTranslation_publish-swarm-6": "Find the Swarm you want to call out.",
         "labeledTranslation_publish-swarm-7": "Click Publish, check the details and confirm. You can change the username attached to the post in the __(profile_preferences::link::ui)__ page. If you get the \"__(not_logged::text::ui)__\" error, log in with Discord from the navigation menu before publishing.",
