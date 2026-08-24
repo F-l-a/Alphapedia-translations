@@ -1,7 +1,7 @@
 {
   "add_translation": {
     "translations": {
-      "ui": {{
+      "ui": {
         "labeledTranslation_android-dontkill": "Si Android ferme agressivement les notifications, vérifiez __(dontkillmyapp::link)__.",
         "labeledTranslation_android-step-1": "Installez « ntfy » depuis le",
         "labeledTranslation_android-step-10": "Et voilà !!",
@@ -14,7 +14,7 @@
         "labeledTranslation_android-step-8": "Abonnez-vous aux alertes « alphapings » ou « swarmpings » et désactivez l'option « Utiliser un autre serveur ». Les noms précédents pour s'abonner sont en minuscules.",
         "labeledTranslation_android-step-9": "Appuyez sur le bouton « S'abonner »",
         "labeledTranslation_discord-bot-permissions-note": "Note : Le bot nécessite les permissions \"Intégrer des liens\", \"Envoyer des messages\" et \"Voir les salons\" pour fonctionner.",
-        "labeledTranslation_discord-bot-step-0": "__('Avis sur la langue :'::HTML::strong)__ L'interface et les notifications du bot sont exclusivement en anglais. Pour recevoir des notifications dans une autre langue, veuillez suivre le guide __(webhooks_setup::link::ui)__ à la place.",
+        "labeledTranslation_discord-bot-step-0": "__('Language Notice:'::HTML::strong)__ L'interface et les notifications du bot sont exclusivement en anglais. Pour recevoir des notifications dans une autre langue, veuillez suivre le guide __(webhooks_setup::link::ui)__ à la place.",
         "labeledTranslation_discord-bot-step-1": "Invitez le bot en utilisant le __(invite_link::link::ui)__",
         "labeledTranslation_discord-bot-step-2": "Exécutez la commande __('/server-settings'::HTML::code)__ et configurez les éléments suivants :",
         "labeledTranslation_discord-bot-step-2a": "Salons de notification :",
@@ -36,11 +36,11 @@
         "labeledTranslation_publish-alpha-5": "Rechercher le bon « Alpha », à la bonne « Localisation » pour Publier une Alerte.",
         "labeledTranslation_publish-alpha-6": "Cliquez sur « Publier », vérifiez les détails et confirmez. Vous pouvez modifier le nom d'utilisateur associé à la publication sur la page __(profile_preferences::link::ui)__ . Si vous rencontrez l'erreur \"__(not_logged::text::ui)__\" , connectez-vous via Discord depuis le menu de navigation avant de publier.",
         "labeledTranslation_publish-alpha-7": "Vous souhaitez contribuer à la Publication d'Alphas ? Vous devez publier au moins 5 Essaims pour devenir un Publicateur d'Alpha. Vous pouvez suivre votre progression sur la page __(profile_preferences::link::ui)__ .",
-        "labeledTranslation_publish-discord-alpha-1": "Saisissez la commande et remplissez tous les paramètres requis : __('/alpha-call'::HTML::code)__\n__('(ex : /alpha-call pokemon:Galeking region:Johto)'::HTML::em)__",
-        "labeledTranslation_publish-discord-pheno-1": "Saisissez la commande et remplissez tous les paramètres requis : __('/pheno-call'::HTML::code)__\n__('(ex : /pheno-call location:Autel Abondance type:Plante)'::HTML::em)__",
-        "labeledTranslation_publish-discord-prereq": "__('Prérequis :'::HTML::strong)__ Les modérateurs du serveur doivent d'abord activer cette fonctionnalité. Consultez le guide __(discord_bot_setup::link::ui)__ pour plus de détails.",
+        "labeledTranslation_publish-discord-alpha-1": "Saisissez la commande et remplissez tous les paramètres requis : __('/alpha-call'::HTML::code)__\n__('(e.g., /alpha-call pokemon:Aggron region:Johto)'::HTML::em)__",
+        "labeledTranslation_publish-discord-pheno-1": "Saisissez la commande et remplissez tous les paramètres requis : __('/pheno-call'::HTML::code)__\n__('(e.g., /pheno-call location:Abundant Shrine type:Grass)'::HTML::em)__",
+        "labeledTranslation_publish-discord-prereq": "__('Prerequisite:'::HTML::strong)__ Les modérateurs du serveur doivent d'abord activer cette fonctionnalité. Consultez le guide __(discord_bot_setup::link::ui)__ pour plus de détails.",
         "labeledTranslation_publish-discord-swarm-1": "Saisissez l'une des commandes et remplissez tous les paramètres requis :",
-        "labeledTranslation_publish-discord-swarm-2": "__('/swarm-call'::HTML::code)__ pour signaler des Essaims __('(ex : /swarm-call pokemon:Absol region:Johto)'::HTML::em)__",
+        "labeledTranslation_publish-discord-swarm-2": "__('/swarm-call'::HTML::code)__ pour signaler des Essaims __('(e.g., /swarm-call pokemon:Absol region:Johto)'::HTML::em)__",
         "labeledTranslation_publish-discord-swarm-3": "__('/report-swarm'::HTML::code)__ pour marquer un Essaim comme faux ou terminé plus tôt",
         "labeledTranslation_publish-discord-swarm-4": "__('/report-missing-spawn'::HTML::code)__ pour faire une demande d'ajout d'un Essaim manquant",
         "labeledTranslation_publish-pheno-1": "Ouvrir la __(pheno_list::link::ui)__",
@@ -74,7 +74,6 @@
         "labeledTranslation_webhook-9e": "Message (facultatif) : Message personnalisé à inclure dans les notifications (Par exemple pour Discord une mention de rôle : <@&idrôle>)",
         "labeledTranslation_webhook-info-1": "Les Webhooks vous permettent d'envoyer des Alertes sur votre serveur Discord et de nombreux autres canaux de communication",
         "labeledTranslation_webhook-info-2": "Cela ne fonctionne PAS sur l'application mobile, uniquement sur les versions Discord Web et de Bureau."
-}
       },
       "notes": {}
     }
