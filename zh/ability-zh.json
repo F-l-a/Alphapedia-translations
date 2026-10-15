@@ -1,5 +1,4 @@
 {
-  "--": "--",
   "Adaptability": "适应力",
   "Aftermath": "引爆",
   "Air Lock": "气闸",
@@ -210,5 +209,6 @@
   "Wither": "枯萎",
   "Wonder Guard": "神奇守护",
   "Wonder Skin": "奇迹皮肤",
-  "Zen Mode": "达摩模式"
+  "Zen Mode": "达摩模式",
+  "--": "--"
 }

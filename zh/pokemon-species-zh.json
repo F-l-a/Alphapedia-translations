@@ -1,5 +1,4 @@
 {
-  "???": "???",
   "Abomasnow": "暴雪王",
   "Abra": "凯西",
   "Absol": "阿勃梭鲁",
@@ -115,7 +114,6 @@
   "Cubchoo": "喷嚏熊",
   "Cubone": "卡拉卡拉",
   "Cyndaquil": "火球鼠",
-  "DEBUG_ST1000": "DEBUG_ST1000",
   "Dark Elfbot": "恶机器精灵",
   "Darkrai": "达克莱伊",
   "Darmanitan": "达摩狒狒",
@@ -680,5 +678,8 @@
   "Zoroark": "索罗亚克",
   "Zorua": "索罗亚",
   "Zubat": "超音蝠",
-  "Zweilous": "双首暴龙"
+  "Zweilous": "双首暴龙",
+  "???": "???",
+  "Blue-Striped Basculin": "Blue-Striped Basculin",
+  "DEBUG_ST1000": "DEBUG_ST1000"
 }
