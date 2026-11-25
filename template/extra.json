@@ -580,6 +580,8 @@
         "Replace the default labels for specific callouts.": "",
         "Report Missing Alpha": "",
         "Report Missing Swarm": "",
+        "This swarm already exists. You can call it yourself from the Swarm List using Publish.": "",
+        "This swarm already exists. You can call it from the Swarm List using Publish once the event ends.": "",
         "Report Pheno": "",
         "Report Swarm": "",
         "Report a new Pheno!": "",
